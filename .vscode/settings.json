@@ -29,5 +29,6 @@
             "statusBarVisibility": "inherit",
             "inheritDefault": "visible"
         }
-    }
+    },
+    "cmake.sourceDirectory": "C:/Users/robea/Documents/GitHub/ESP32_S3_7INCH_LVGL_DEMO/lib/Lvgl"
 }
