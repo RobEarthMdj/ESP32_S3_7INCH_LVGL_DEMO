@@ -1,0 +1,36 @@
+{
+	"folders": [],
+	"settings": {
+		"files.associations": {
+			"new": "cpp",
+			"istream": "cpp",
+			"ostream": "cpp",
+			"array": "cpp",
+			"*.tcc": "cpp",
+			"deque": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"unordered_set": "cpp",
+			"vector": "cpp",
+			"string_view": "cpp",
+			"memory": "cpp",
+			"random": "cpp",
+			"initializer_list": "cpp"
+		},
+		"cmake.options.statusBarVisibility": "visible",
+		"cmake.options.advanced": {
+			"build": {
+				"statusBarVisibility": "inherit",
+				"inheritDefault": "visible"
+			},
+			"launch": {
+				"statusBarVisibility": "inherit",
+				"inheritDefault": "visible"
+			},
+			"debug": {
+				"statusBarVisibility": "inherit",
+				"inheritDefault": "visible"
+			}
+		}
+	}
+}
